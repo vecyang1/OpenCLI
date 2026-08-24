@@ -606,15 +606,6 @@
     ]
   },
   {
-    "command": "twitter/list-remove",
-    "file": "clis/twitter/list-remove.js",
-    "missing": [
-      "method",
-      "ts",
-      "url"
-    ]
-  },
-  {
     "command": "twitter/list-tweets",
     "file": "clis/twitter/list-tweets.js",
     "missing": [
@@ -759,14 +750,6 @@
       "seller_score",
       "seller_url",
       "status"
-    ]
-  },
-  {
-    "command": "xianyu/search",
-    "file": "clis/xianyu/search.js",
-    "missing": [
-      "extra",
-      "original_price"
     ]
   },
   {
